@@ -1,0 +1,1 @@
+This will be a basic recipe website. It will consist of a main index page, with links to a few recipes. By the end of this project, I will have practiced using HTML, and later on cleaned the website up with CSS.
