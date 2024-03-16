@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(250, 169, 18);
+    font-size: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+img {
+    height: 400px;
+    width:auto;
+}
+ul {
+    background-color: yellow;
+}
+
+ol {
+    background-color: rgb(243, 85, 27);
+}
