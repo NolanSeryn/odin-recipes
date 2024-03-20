@@ -1,9 +1,15 @@
+body {
+background-color: rgb(79, 64, 92);
+}
+
 h1 {
-    background-color: rgb(250, 133, 0);
+    background-color: rgb(71, 73, 157);
     font-size: 36px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Courier New', Courier, monospace, Arial, sans-serif;
     margin: auto;
     padding:8px;
+    border: 5px dotted purple;
+    box-shadow: 10px 10px 3px rgb(1, 1, 1, 0.27);
 }
 
 .subheader {
@@ -16,14 +22,15 @@ img {
     margin: 20px;
 }
 ul {
-    background-color: yellow;
+    background-color: rgba(12, 187, 214, 0.5);
     border:2px;
     border-style: dotted;
-    border-color: brown;
+    border-color: rgb(42, 61, 165);
 }
 
 ol {
-    background-color: rgb(245, 142, 24);
+    background-color: rgb(24, 225, 79);
+    border: 2px dotted rgb(24, 135, 79);
 }
 li {
     display:flexbox;
